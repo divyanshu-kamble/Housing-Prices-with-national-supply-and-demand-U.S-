@@ -1,0 +1,11 @@
+Learnings on the data:
+
+1.There is somewhat inverse correlation between the Unemployment rate and Housing Prices, as the unemployement rate increases the housing prices decreases.
+
+2.The Mortgage also shows similar kind of behaviour, as the increase in mortgage there is a dip in housing prices.
+
+3.The GDP shows that there is a kind of correlation between housing prices, it's somwewhat grows linearly and shows that if the GDP increases the Housing prices will also.
+
+4.Construction also has a direct relation as the construction prices increases the housing prices will also.
+
+5.there is somewhat relation between the housing starts(empty houses) as the housing starts increase there is decrease in prices but in some scenarios it also increases.
